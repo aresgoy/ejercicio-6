@@ -1,0 +1,15 @@
+svg {
+    width: 50%; /* Ajusta el ancho del SVG según tus preferencias */
+    display: block;
+    margin: auto;
+  }
+
+  .petal {
+    fill: #FFD700; /* Color dorado para los pétalos */
+    stroke: #FF6347; /* Color rojo para el borde de los pétalos */
+    stroke-width: 2; /* Grosor del borde */
+  }
+
+  .center {
+    fill: #4CAF50; /* Color verde para el centro de la flor */
+  }
